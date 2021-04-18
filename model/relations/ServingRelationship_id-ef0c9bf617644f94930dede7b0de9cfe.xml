@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fachverfahren nutzt IT-Service"
+    id="id-ef0c9bf617644f94930dede7b0de9cfe">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-08b91947cc2c4572b3aed5fd3127111d.xml#id-08b91947cc2c4572b3aed5fd3127111d"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-ab0b2bfb66264fe7b2900f0ee35a02fa.xml#id-ab0b2bfb66264fe7b2900f0ee35a02fa"/>
+</archimate:ServingRelationship>

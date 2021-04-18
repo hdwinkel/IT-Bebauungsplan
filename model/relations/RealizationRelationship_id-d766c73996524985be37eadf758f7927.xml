@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LB stellt Fachanwendung bereit"
+    id="id-d766c73996524985be37eadf758f7927">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_id-e0c56502b4c048bba8d2811891afc250.xml#id-e0c56502b4c048bba8d2811891afc250"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7012165920924632a26c9513ae26cf5c.xml#id-7012165920924632a26c9513ae26cf5c"/>
+</archimate:RealizationRelationship>

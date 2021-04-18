@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fachanwendung wird von IT-Service genutzt"
+    id="id-1f540fca880d4237a73e1dcb788a7594">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7012165920924632a26c9513ae26cf5c.xml#id-7012165920924632a26c9513ae26cf5c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-0319ea2ee3c941d7bbba6f567128a056.xml#id-0319ea2ee3c941d7bbba6f567128a056"/>
+</archimate:RealizationRelationship>
